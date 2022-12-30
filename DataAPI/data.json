@@ -1,0 +1,12 @@
+{
+  "Product": [
+    {
+      "name": "A THI Handsome",
+      "avatar": "https://loremflickr.com/640/480/fashion",
+      "price": "562.00",
+      "quantity": 99,
+      "id_type": "id_type 1",
+      "id": "1"
+    }
+  ]
+}

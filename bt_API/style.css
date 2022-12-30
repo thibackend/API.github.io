@@ -1,0 +1,15 @@
+.khung{
+    margin-top:20px;
+    display:flex;
+    justify-content: center;
+}
+.frm{
+    width:30%;
+}
+#table{
+    width:60%; 
+    border:solid 1px;
+}
+#table tr th{
+    width:200px; 
+}
